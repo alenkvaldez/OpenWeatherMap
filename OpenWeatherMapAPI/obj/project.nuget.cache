@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NlI6cFDPM/S5LBe9sObUp5IdebitSovevnfXMUIW87Tqnc5YlffMevhBTMwP+IXDiOoWMqUywC74KUhD0V8OOg==",
+  "dgSpecHash": "9xEuU5YVdSXe9BqvxcUcRs+ADbziR4y7HCXtFBjcZSnnbVew9bXX6Y3Na+K/4ODXs6w+0ylQ7j7bxSRWCmCxaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\OpenWeatherMapAPI\\OpenWeatherMapAPI\\OpenWeatherMapAPI.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/alenvaldez/repos/OpenWeatherMap/OpenWeatherMapAPI/OpenWeatherMapAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/alenvaldez/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
